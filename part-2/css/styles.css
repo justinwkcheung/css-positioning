@@ -27,3 +27,62 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+figure.film-poster {
+    position: relative;
+}
+
+i.fa.fa-2x.fa-clock-o {
+    position: absolute;
+    top: 23px;
+    right: 15px;
+    color: red;
+}
+
+figure.film-poster {
+        width: 35%;
+        float: left;
+        padding: 20px 10px 10px 10px;
+    }
+
+    article.film.lala {
+        border: 2px solid lightgrey;
+    }
+
+.rogue {
+  border: 2px solid lightgrey;
+  overflow: hidden;
+}
+
+    .action-like {
+        float: right;
+        color: red;
+    }
+
+    .film-details {
+        overflow: hidden;
+        font-size: 90%;
+    }
+
+    .film-description {
+    padding-right: 15px;
+}
+
+article.film.rogue {
+    position: relative;
+}
+
+.rogue-like {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+
+.la-like {
+  padding: 0px 5px 5px 0px;
+}
+
+.film-details.rogue-dets {
+    padding-right: 10px;
+}
+}
